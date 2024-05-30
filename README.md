@@ -1,16 +1,21 @@
-# assignment
+# CS4750 Mobile App Development
 
-A new Flutter project.
+## Assignment 1
 
-## Getting Started
+This repository contains the assignments for the CS4750 Mobile App Development class.
 
-This project is a starting point for a Flutter application.
+### Project Description
 
-A few resources to get you started if this is your first Flutter project:
+Your first assignment is to set up the Flutter app development environment.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Flutter Development Setup**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   Please follow [Flutter's installation guide](https://flutter.dev/docs/get-started/install) and Lecture video 01 to get your Flutter development environment ready.
+
+   You need to make sure you have the following configured:
+
+   - Flutter SDK
+   - Flutter Development IDE (Android Studio or VS Code)
+   - Android or iOS Emulator
+   - Create Your First Flutter App using the Template
+   - Run Your First Flutter App using the Emulator
